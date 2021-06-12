@@ -1,3 +1,5 @@
+# Problema da OBI primeira fase completo
+
 N = int(input(""))
 x1, y1 = [int(i) for i in input("").split()]
 x2, y2 = [int(j) for j in input("").split()]
